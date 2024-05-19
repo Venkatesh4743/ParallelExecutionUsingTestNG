@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-19T10:58:26 IST" name="Default suite" finished-at="2024-05-19T10:58:26 IST" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2024-05-19T10:58:26 IST" name="Default test" finished-at="2024-05-19T10:58:26 IST" duration-ms="66">
+      <class name="ParalellExecution.ParalellExecutionClass2">
+        <test-method signature="testMethod5()[pri:0, instance:ParalellExecution.ParalellExecutionClass2@245b4bdc]" started-at="2024-05-19T10:58:26 IST" name="testMethod5" finished-at="2024-05-19T10:58:26 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod5 -->
+        <test-method signature="testMethod6()[pri:0, instance:ParalellExecution.ParalellExecutionClass2@245b4bdc]" started-at="2024-05-19T10:58:26 IST" name="testMethod6" finished-at="2024-05-19T10:58:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod6 -->
+        <test-method signature="testMethod7()[pri:0, instance:ParalellExecution.ParalellExecutionClass2@245b4bdc]" started-at="2024-05-19T10:58:26 IST" name="testMethod7" finished-at="2024-05-19T10:58:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod7 -->
+        <test-method signature="testMethod8()[pri:0, instance:ParalellExecution.ParalellExecutionClass2@245b4bdc]" started-at="2024-05-19T10:58:26 IST" name="testMethod8" finished-at="2024-05-19T10:58:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod8 -->
+      </class> <!-- ParalellExecution.ParalellExecutionClass2 -->
+      <class name="ParalellExecution.ParalellExecutionClass3">
+        <test-method signature="testMethod10()[pri:0, instance:ParalellExecution.ParalellExecutionClass3@38c6f217]" started-at="2024-05-19T10:58:26 IST" name="testMethod10" finished-at="2024-05-19T10:58:26 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod10 -->
+        <test-method signature="testMethod11()[pri:0, instance:ParalellExecution.ParalellExecutionClass3@38c6f217]" started-at="2024-05-19T10:58:26 IST" name="testMethod11" finished-at="2024-05-19T10:58:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod11 -->
+        <test-method signature="testMethod12()[pri:0, instance:ParalellExecution.ParalellExecutionClass3@38c6f217]" started-at="2024-05-19T10:58:26 IST" name="testMethod12" finished-at="2024-05-19T10:58:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod12 -->
+        <test-method signature="testMethod9()[pri:0, instance:ParalellExecution.ParalellExecutionClass3@38c6f217]" started-at="2024-05-19T10:58:26 IST" name="testMethod9" finished-at="2024-05-19T10:58:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod9 -->
+      </class> <!-- ParalellExecution.ParalellExecutionClass3 -->
+      <class name="ParalellExecution.ParalellExecutionClass1">
+        <test-method signature="testMethod1()[pri:0, instance:ParalellExecution.ParalellExecutionClass1@478190fc]" started-at="2024-05-19T10:58:26 IST" name="testMethod1" finished-at="2024-05-19T10:58:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method signature="testMethod2()[pri:0, instance:ParalellExecution.ParalellExecutionClass1@478190fc]" started-at="2024-05-19T10:58:26 IST" name="testMethod2" finished-at="2024-05-19T10:58:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method signature="testMethod3()[pri:0, instance:ParalellExecution.ParalellExecutionClass1@478190fc]" started-at="2024-05-19T10:58:26 IST" name="testMethod3" finished-at="2024-05-19T10:58:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method signature="testMethod4()[pri:0, instance:ParalellExecution.ParalellExecutionClass1@478190fc]" started-at="2024-05-19T10:58:26 IST" name="testMethod4" finished-at="2024-05-19T10:58:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+      </class> <!-- ParalellExecution.ParalellExecutionClass1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
